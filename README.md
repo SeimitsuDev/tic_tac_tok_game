@@ -100,7 +100,7 @@ gap: 25px;
 box-shadow: 10px 10px 0px rgba(0, 0, 0, 1);
 ">
   <div style="flex: 1; min-width: 280px;">
-    <img src="assets/game_play.png" alt="Login Page Preview" style="width: 100%; height: auto; border-radius: 12px;">
+    <img src="assets/win_interface.png" alt="Login Page Preview" style="width: 100%; height: auto; border-radius: 12px;">
   </div>
   <div style="flex: 1; min-width: 250px;">
     <h4 style="border: 2px solid #888; border-radius: 10px; padding: 15px; margin: 0; color: #ffffff; background-color: #383838; line-height: 1.5; text-align:center">
