@@ -16,7 +16,8 @@ It has following features:
 </ul>
 </p>
 
-
+<br>
+<br>
 <h2 style="color: #a29292">Game Interface</h2>
 <div style="display: flex; 
 align-items: center; 
@@ -39,7 +40,8 @@ box-shadow: 10px 10px 0px rgba(0, 0, 0, 1);
   </div>
 </div>
 
-
+<br>
+<br>
 <h2 style="color: #a29292">Game Interface</h2>
 <div style="display: flex; 
 align-items: center; 
@@ -61,7 +63,8 @@ box-shadow: 10px 10px 0px rgba(0, 0, 0, 1);
   </div>
 </div>
 
-
+<br>
+<br>
 <h2 style="color: #a29292">Game Play</h2>
 <div style="display: flex; 
 align-items: center; 
@@ -83,6 +86,8 @@ box-shadow: 10px 10px 0px rgba(0, 0, 0, 1);
   </div>
 </div>
 
+<br>
+<br>
 <h2 style="color: #a29292">Win Interface</h2>
 <div style="display: flex; 
 align-items: center; 
